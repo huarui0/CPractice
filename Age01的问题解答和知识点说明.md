@@ -47,7 +47,13 @@ The unary & operator gives you the address where a variable is stored.
 
 ## 6.关于字符转义：
 比如：\n 加了反斜杠 \ 后面的 n 就不代表 n 了，而是与\一起组合成\n，表示 换行符了
-## 7.关于function（函数）
+## 7.关于function（函数）<br>
+- 参考 C Prime Plus p.44:While You’re at It—Multiple Functions
+The butler() function appears three times in this program. The first appearance is in the proto-
+type , which informs the compiler about the functions to be used. The second appearance is in
+main() in the form of a function call . Finally, the program presents the function definition , which
+is the source code for the function itself. Let’s look at each of these three appearances in turn.
+
 - 要试着用function来组织代码，比如，计算两个值的差，就可以写成一个function。可以试试。
 - 比如：爸爸写的这个markdown文档，就是现学现用的，不用学。遇到问题Google下就可以了。（目前没有解决字体颜色得问题）
 - 学得快和学得扎实，可以兼顾下。如果不能，那就先慢些学。等基础扎实了再快。
