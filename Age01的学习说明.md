@@ -41,5 +41,8 @@ next, beginning with the unary & operator. (The next chapter continues the explo
 exploitation of pointers.)
 The unary & operator gives you the address where a variable is stored.
 
-## 6.关于编码规范：
+## 6.关于字符转义：
+比如：\n 加了反斜杠 \ 后面的 n 就不代表 n 了，而是与\一起组合成\n，表示 换行符了
+
+## 7.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
