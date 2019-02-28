@@ -27,6 +27,20 @@
 - 不同类型的变量，不能相加。如何是 字符型的数值，如 int num; num = 3; char chr_num; chr_num = '5'; int sum; sum = num + chr_num; 这是错的，因为 num 和 chr_num 不是__**同类型的变量**__！！！
 - <font face="黑体" color=red size=7>7号红色黑体</font>
 - Some Markdown text with <span style="color:blue">some *blue* text</span>.
+
+
+<font face="黑体">我是黑体字</font>  
+<font face="微软雅黑">我是微软雅黑</font>  
+<font face="STCAIYUN">我是华文彩云</font>  
+<font color=#0099ff size=7 face="黑体">color=#0099ff size=72 face="黑体"</font>  
+<font color=#00ffff size=72>color=#00ffff</font>  
+<font color=gray size=72>color=gray</font>   
+
+<font color=red>color <br>
+
+<br>
+
+
 ## 3.关于变量的格式化：
 
 ## 4.关于指针（pointer）变量：
