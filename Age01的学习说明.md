@@ -24,6 +24,16 @@
 - 不同类型的变量，不能相加。
 
 ## 3.关于 & 操作符；
-参考：
+参考：C Prime Plus p367：Finding Addresses: The & Operator
+- 注意，加 & 的变量与 原来变量的关系
+
+One of the most important C concepts (and sometimes one of the most perplexing) is the
+pointer , which is a variable used to store an address. You’ve already seen that scanf() uses
+addresses for arguments. More generally, any C function that modifies a value in the calling
+function without using a return value uses addresses. We’ll cover functions using addresses
+next, beginning with the unary & operator. (The next chapter continues the exploration and
+exploitation of pointers.)
+The unary & operator gives you the address where a variable is stored.
+
 ## 5.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
