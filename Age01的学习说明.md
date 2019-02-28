@@ -49,3 +49,17 @@ The unary & operator gives you the address where a variable is stored.
 
 ## 7.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
+
+
+
+
+```graph
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->E;
+    E-->F;
+    D-->F;
+    F-->G;
+```
