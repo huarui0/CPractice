@@ -6,7 +6,7 @@
 | 下载 | git pull | 上传的目的位置（网址） |
 
 ## Markdown 语法介绍：
-备注：起的文件名扩展名必须是md，就可以用到md的语法组织文档：）
+备注：起的文件名扩展名必须是md，就可以用到md的语法组织文档：）   
 参考：1. [Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html)
       2. [Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)
       3. [掌握这几种 Markdown 语法你就够了](https://learnku.com/laravel/t/621/you-will-be-able-to-master-these-markdown-grammars)
