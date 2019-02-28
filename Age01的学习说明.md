@@ -12,4 +12,5 @@
        /* Copy SRC to DEST.  */
        extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
        应该就是将一个字符变量 copy 到 另一个字符变量。（猜测） 
+       再比如： strlen() 应该就算计算字符的数量（长度）
         
