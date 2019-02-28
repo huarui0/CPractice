@@ -33,6 +33,7 @@
 * 重要的标准库（standard library）function的例子（example）：
   - [C Programming/string.h/strcmp(注：这个是有源代码)](https://en.wikibooks.org/wiki/C_Programming/string.h/strcmp)<br>
   - [C Language: strcmp function(String Compare)](https://www.techonthenet.com/c_language/standard_library_functions/string_h/strcmp.php)<br>
+     - 关于标准库例子的使用，你有时间，爸爸要跟你解释下，如何使用这些例子。
 * google search中site：
   - 源代码网站：
     - code.woboq.org 格式：google search：strcmp source code site:code.woboq.org
