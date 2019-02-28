@@ -1,8 +1,8 @@
 # 问题记录：<br>   
 1.行数16 算式的差是固定值？为什么？<br>
-     <font face="黑体" color=red>解答：</font>参考关于变量，变量必须先赋值，再计算
+     <font face="黑体" color=red>解答：</font>参考关于变量，变量必须先赋值，再计算<br>
 2.错误1: string 与 charactor 不能相比较。<br>   
-     <font face="黑体" color=red>解答：</font>没有看懂，具体是哪句，要提供。  
+     <font face="黑体" color=red>解答：</font>没有看懂，具体是哪句，要提供。<br>
 -----------------------------------------
 # 知识点
 ## 1.关于头文件：
