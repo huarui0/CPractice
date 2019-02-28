@@ -21,7 +21,16 @@
        - /* Copy SRC to DEST.  */
        extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
        应该就是将一个字符变量 copy 到 另一个字符变量。（猜测的） 
-       - 再比如： strlen() 应该就是计算字符的数量（长度）
+       - 再比如： strlen() 应该就是计算字符的数量（长度）<br>
+* 如何找到源文件的 定义（不是声明！！！）
+     - 可以在google search中输入：strcmp source code，或者输入：c language strcmp source code。（当然中文也可以：c语言，strcmp 源代码）
+     -- [Browse the source code of glibc/string/strcmp.c(strcmp的源代码文件)](https://code.woboq.org/userspace/glibc/string/strcmp.c.html)
+         可以看看其中的说明：
+         /* Compare S1 and S2, returning less than, equal to or
+         greater than zero if S1 is lexicographically less than,
+         equal to or greater than S2.  */
+         也就是比较两个字符串（string）的大小（长度）--不理解的话，打电话问爸爸，或老师。
+         
 ## 2.关于变量：
 - 每一个变量都有一个存储变量值的地址，要搞清楚两者的关系，并知道如何获取 值和地址（也是一个值，是存储地址值）--不知会不会理解，不理解跟爸爸说。
 - 变量必须先声明（declare），才可以赋值（assign），否则会报错。如果在声明得同时赋值，叫做变量得初始化（参考：CPrimePlus。p.63:Initializing a Variable.）
