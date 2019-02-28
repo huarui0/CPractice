@@ -25,8 +25,11 @@
 ## 2.关于变量：
 - 变量必须赋值，才能计算。
 - 不同类型的变量，不能相加。
+## 3.关于变量的格式化：
 
-## 3.关于 & 操作符；
+## 4.关于指针（pointer）变量：
+
+## 5.关于 & 操作符；
 参考：C Prime Plus p367：Finding Addresses: The & Operator
 - 注意，加 & 的变量与 原来变量的关系，同时 要先了解下 pointer （指针）
 
@@ -38,5 +41,5 @@ next, beginning with the unary & operator. (The next chapter continues the explo
 exploitation of pointers.)
 The unary & operator gives you the address where a variable is stored.
 
-## 5.关于编码规范：
+## 6.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
