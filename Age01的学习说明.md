@@ -27,10 +27,10 @@
 - 不同类型的变量，不能相加。如何是 字符型的数值，如 int num; num = 3; char chr_num; chr_num = '5'; int sum; sum = num + chr_num; 这是错的，因为 num 和 chr_num 不是__**同类型的变量**__！！！
 
 
-## 3.关于变量的格式化：
+## 3.关于变量的格式化：<br>
 
-## 4.关于指针（pointer）变量：
-参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。
+## 4.关于指针（pointer）变量：<br>
+参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
 
 ## 5.关于 & 操作符；
 参考：C Prime Plus p.367：Finding Addresses: The & Operator
