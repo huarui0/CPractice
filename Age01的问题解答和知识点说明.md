@@ -25,7 +25,7 @@
 * 如何找到源文件的 定义（不是声明！！！）
      - 可以在google search中输入：strcmp source code，或者输入：c language strcmp source code。（当然中文也可以：c语言，strcmp 源代码）
      -- [Browse the source code of glibc/string/strcmp.c(strcmp的源代码文件)](https://code.woboq.org/userspace/glibc/string/strcmp.c.html)
-         可以看看其中的说明：
+         可以看看其中的说明：<br>
          /* Compare S1 and S2, returning less than, equal to or
          greater than zero if S1 is lexicographically less than,
          equal to or greater than S2.  */
