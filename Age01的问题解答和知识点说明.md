@@ -60,7 +60,7 @@
 ## 5.关于 & 操作符；
 参考：C Prime Plus p.367：Finding Addresses: The & Operator
 - 注意，加 & 的变量与 原来变量的关系，同时 要先了解下 pointer （指针）
-
+- 红字：特别是变量的地址和变量的值（也就是地址存储的东西（值）），一定要搞得清清楚楚，明明白白。这样指针和 这个操作符 就 都不在话下了。<br> <br>
 One of the most important C concepts (and sometimes one of the most perplexing) is the
 pointer , which is a variable used to store an address. You’ve already seen that scanf() uses
 addresses for arguments. More generally, any C function that modifies a value in the calling
