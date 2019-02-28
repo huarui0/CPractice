@@ -30,7 +30,10 @@
          greater than zero if S1 is lexicographically less than,
          equal to or greater than S2.  */   <br>
          也就是比较两个字符串（string）的大小（长度）--不理解的话，打电话问爸爸，或老师。<br>
-         
+* 重要的源文件的例子（example）：
+  - [C Programming/string.h/strcmp(注：这个是有源代码)](https://en.wikibooks.org/wiki/C_Programming/string.h/strcmp)<br>
+  - [C Language: strcmp function(String Compare)](https://www.techonthenet.com/c_language/standard_library_functions/string_h/strcmp.php)<br>
+  
 ## 2.关于变量：
 - 每一个变量都有一个存储变量值的地址，要搞清楚两者的关系，并知道如何获取 值和地址（也是一个值，是存储地址值）--不知会不会理解，不理解跟爸爸说。
 - 变量必须先声明（declare），才可以赋值（assign），否则会报错。如果在声明得同时赋值，叫做变量得初始化（参考：CPrimePlus。p.63:Initializing a Variable.）
