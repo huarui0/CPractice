@@ -25,7 +25,7 @@
 ## 2.关于变量：
 - 每一个变量都有一个存储变量值的地址，要搞清楚两者的关系，并知道如何获取 值和地址（也是一个值，是存储地址值）--不知会不会理解，不理解跟爸爸说。
 - 变量必须赋值，才能计算。
-- 不同类型的变量，不能相加。如何是 字符型的数值，如 int num; num = 3; char chr_num; chr_num = '5'; int sum; sum = num + chr_num; 这是错的，因为 num 和 chr_num 不是__**同类型的变量**__！！！
+- 不同类型的变量，不能相加。比如：字符型的数值，就不能跟 数值型的数值相加，例子：int num; num = 3; char chr_num; chr_num = '5'; int sum; sum = num + chr_num; 这是错的，因为 num 和 chr_num 不是__**同类型的变量**__！！！
 
 
 ## 3.关于变量的格式化：<br>
@@ -51,51 +51,3 @@ The unary & operator gives you the address where a variable is stored.
 ## 7.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
 
-
-
-
-```graph
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->E;
-    E-->F;
-    D-->F;
-    F-->G;
-```
-
-
-```graph
-sequenceDiagram
-    participant Alice
-    participant Bob
-    Alice->John: Hello John, how are you?
-    loop Healthcheck
-        John->John: Fight against hypochondria
-    end
-    Note right of John: Rational thoughts 
-prevail...
-    John-->Alice: Great!
-    John->Bob: How about you?
-    Bob-->John: Jolly good!
-```
-
-
-```graph
-gantt
-        dateFormat  YYYY-MM-DD
-        title Adding GANTT diagram functionality to mermaid
-        section A section
-        Completed task            :done,    des1, 2014-01-06,2014-01-08
-        Active task               :active,  des2, 2014-01-09, 3d
-        Future task               :         des3, after des2, 5d
-        Future task2               :         des4, after des3, 5d
-        section Critical tasks
-        Completed task in the critical line :crit, done, 2014-01-06,24h
-        Implement parser and jison          :crit, done, after des1, 2d
-        Create tests for parser             :crit, active, 3d
-        Future task in critical line        :crit, 5d
-        Create tests for renderer           :2d
-        Add to mermaid                      :1d
-```
