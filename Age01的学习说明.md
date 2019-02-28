@@ -47,7 +47,8 @@ The unary & operator gives you the address where a variable is stored.
 
 ## 6.关于字符转义：
 比如：\n 加了反斜杠 \ 后面的 n 就不代表 n 了，而是与\一起组合成\n，表示 换行符了
-
-## 7.关于编码规范：
+## 7.关于function（函数）
+- 要试着用function来组织代码，比如，计算两个值的差，就可以写成一个function。可以试试。
+## 8.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
 
