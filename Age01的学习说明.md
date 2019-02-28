@@ -25,7 +25,7 @@
 
 ## 3.关于 & 操作符；
 参考：C Prime Plus p367：Finding Addresses: The & Operator
-- 注意，加 & 的变量与 原来变量的关系
+- 注意，加 & 的变量与 原来变量的关系，同时 要先了解下 pointer （指针）
 
 One of the most important C concepts (and sometimes one of the most perplexing) is the
 pointer , which is a variable used to store an address. You’ve already seen that scanf() uses
