@@ -129,6 +129,11 @@
 - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
+```diff
++ this will be highlighted in green
+- this will be highlighted in red
+```
+
 <font size="3" color="red">This is some text!</font>
 <font size="2" color="blue">This is some text!</font>
 <font face="verdana" color="green">This is some text!</font>
