@@ -1,6 +1,6 @@
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
-
+@import "colors.css";
 </head>
 
 In case this may be helpful for someone who just needs to show colors rather than output, as a hackish workaround (and FYI), since Github supports Unicode numeric character references (and HTML entities), you could try colored Unicode symbols, though it depends on the font rendering them in color (as it happens to be appearing for me on Windows 10 and Mac 10.12.5, at least, though on the Mac at least, the up/down-pointing small red triangles don't show in red):
