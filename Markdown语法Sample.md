@@ -5,7 +5,7 @@
   th {background-color: #333; border:}
   tr {background-color: #999;}
   td {background-color: #ccc; border: 1px solid black;}
-  .highlight {background-color: #fff; color: orange;}
+  .highlight {background-color: #fff; color: #f45c42;}
 </style>
 
 </head>
@@ -34,7 +34,7 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
 
 In his beard lived three <span style="color:red">cardinals</span>.
 
-<h6 class="text_set">Hello World</h6>
+<h6 class="highlight">Hello World</h6>
 
 <p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 
