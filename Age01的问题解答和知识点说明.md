@@ -44,11 +44,17 @@
     - www.techonthenet.com <br>
 * 关于 C Standard Library的说明<br>
    - Google Search:C Standard Library
+   - C Standard Library 的解释：
+      + [C Programming/Standard libraries - 这个解释得很清楚明了](https://en.wikibooks.org/wiki/C_Programming/Standard_libraries)<br>
+      + [C standard library - 维基百科英文](https://en.wikipedia.org/wiki/C_standard_library)<br>
+      + [The ANSI C Standard Library - Contents](http://www.csse.uwa.edu.au/programming/ansic-library.html)<br>
    - 网站：
       + [C Standard Library Reference Tutorial](https://www.tutorialspoint.com/c_standard_library/)<br>
          + 先找到头文件，如：stdio.h
          + 接着，找到需要的function的声明，如 int sprintf(char *str, const char *format, ...)
-         + 打开链接，就可以看到 详细信息和例子。
+         + 打开链接，就可以看到 详细信息和例子。<br>
+      + [C Standard Library Functions](https://www.programiz.com/c-programming/library-function)<br>
+      
 * 书籍（可以去下载电子版）：（以下的书籍，由于年代久远了，可以不用看了，以上面关于C Standard Library的说明为准。）
     - 
     - A possible implementation is (P.J. Plauger, The Standard C Library, 1992): --备注：这个书似乎有些旧了，如果要用到其中的函数，可以先了解这本书的，使用参考新的，如下面的GNU C Standard Library<br>
