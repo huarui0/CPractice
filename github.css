@@ -275,3 +275,6 @@ pre {
   pre code, pre tt {
     background-color: transparent;
     border: none; }
+.text_set {
+  color: #f45c42;
+  font-size: 18px; }
