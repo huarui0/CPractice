@@ -1,12 +1,5 @@
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
-<style type="text/css">
-  table {background-color: #ccc; border: 1px solid black; padding: 5px; width: 90%;}
-  th {background-color: #333; border:}
-  tr {background-color: #999;}
-  td {background-color: #ccc; border: 1px solid black;}
-  .highlight {background-color: #fff; color: #f45c42;}
-</style>
 
 </head>
 
