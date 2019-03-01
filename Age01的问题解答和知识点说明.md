@@ -76,26 +76,26 @@
 ## 3.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
 > Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
- | Conversion | Output Specification | 
- | --------   | -----:   |
- | %a | Floating-point number, hexadecimal digits and p-notation (C99/C11). |
-> | %A | Floating-point number, hexadecimal digits and P-notation (C99/C11). | 
-> | %c | Single character. | 
-> | %d | Signed decimal integer. | 
-> | %e | Floating-point number, e-notation. | 
-> | %E | Floating-point number, e-notation.
+
+>| Conversion | Output Specification |
+>| ------ | :------ |
+>| %a | Floating-point number, hexadecimal digits and p-notation (C99/C11). |
+>| %A | Floating-point number, hexadecimal digits and P-notation (C99/C11). | 
+>| %c | Single character. | 
+>| %d | Signed decimal integer. | 
+>| %e | Floating-point number, e-notation. | 
+>| %E | Floating-point number, e-notation. | 
 > | %f | Floating-point number, decimal notation.
 > | %g | Use %f or %e , depending on the value. The %e style is used if the exponent is less than −4 or greater than or equal to the precision.
-> | %G | Use %f or %E , depending on the value. The %E style is used if the exponent is
-less than −4 or greater than or equal to the precision.
-> | %i | Signed decimal integer (same as %d ).
-> | %o | Unsigned octal integer.
-> | %p | A pointer.
-> | %s | Character string.
-> | %u | Unsigned decimal integer.
-> | %x | Unsigned hexadecimal integer, using hex digits 0f .
-> | %X | Unsigned hexadecimal integer, using hex digits 0F .
-> | %% | Prints a percent sign.
+> | %G | Use %f or %E , depending on the value. The %E style is used if the exponent is less than −4 or greater than or equal to the precision. | 
+> | %i | Signed decimal integer (same as %d ). | 
+> | %o | Unsigned octal integer. | 
+> | %p | A pointer. | 
+> | %s | Character string. | 
+> | %u | Unsigned decimal integer. | 
+> | %x | Unsigned hexadecimal integer, using hex digits 0f . | 
+> | %X | Unsigned hexadecimal integer, using hex digits 0F . | 
+> | %% | Prints a percent sign. | 
 
 *备注：这个是用html标签做表格的例子。<br>
 <table>
