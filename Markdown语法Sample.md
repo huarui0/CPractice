@@ -34,7 +34,8 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽
 
 In his beard lived three <span style="color:red">cardinals</span>.
 
-<h3 style="color:Tomato;">Hello World</h3>
+<h6 style="color:Tomato;">Hello World</h6>
+
 <p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
 
 <p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
