@@ -134,6 +134,30 @@
 - this will be highlighted in red
 ```
 
+
+RED APPLE (&#x1F34E;): 🍎<br>
+GREEN APPLE (&#x1F34F;): 🍏<br>
+BLUE HEART (&#x1F499;): 💙<br>
+GREEN HEART (&#x1F49A;): 💚<br>
+YELLOW HEART (&#x1F49B;): 💛<br>
+PURPLE HEART (&#x1F49C;): 💜<br>
+GREEN BOOK (&#x1F4D7;): 📗<br>
+BLUE BOOK (&#x1F4D8;): 📘<br>
+ORANGE BOOK (&#x1F4D9;): 📙<br>
+LARGE RED CIRCLE (&#x1F534;): 🔴<br>
+LARGE BLUE CIRCLE (&#x1F535;): 🔵<br>
+LARGE ORANGE DIAMOND (&#x1F536;): 🔶<br>
+LARGE BLUE DIAMOND (&#x1F537;): 🔷<br>
+SMALL ORANGE DIAMOND (&#x1F538;): 🔸<br>
+SMALL BLUE DIAMOND (&#x1F539;): 🔹<br>
+UP-POINTING RED TRIANGLE (&#x1F53A;): 🔺<br>
+DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻<br>
+UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼<br>
+DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽<br>
+
+
+
+
 <font size="3" color="red">This is some text!</font>
 <font size="2" color="blue">This is some text!</font>
 <font face="verdana" color="green">This is some text!</font>
