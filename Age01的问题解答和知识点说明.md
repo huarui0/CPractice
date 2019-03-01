@@ -75,7 +75,7 @@
 
 ## 3.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
-> Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
+> Table 4.3 Conversion Specifiers and the Resulting Printed Output (要尽量都记住，因为要考试！【爸爸都没记多少，因为不用考试：（】)<br>
 
 >| Conversion | Output Specification |
 >| ------ | :------ |
@@ -146,7 +146,7 @@ The unary & operator gives you the address where a variable is stored.
 ## 6.关于字符转义：
 比如：\n 加了反斜杠 \ 后面的 n 就不代表 n 了，而是与\一起组合成\n，表示 换行符了
 
-- 参考 C Prime Plus p.44:Table 3.2 Escape Sequences<br>
+- 参考 C Prime Plus p.44:Table 3.2 Escape Sequences (要尽量都记住，因为要考试！【爸爸都没记多少，因为不用考试：（】)<br>
 > Table 3.2 Escape Sequences<br>
 
 > | Sequence | Meaning |
