@@ -42,7 +42,9 @@
       - 格式1：google search：strcmp source code site:en.wikibooks.org <br>
       - 格式2：google search：strcmp sample site:en.wikibooks.org <br>
     - www.techonthenet.com <br>
-* 书籍（可以去下载电子版）：A possible implementation is (P.J. Plauger, The Standard C Library, 1992):<br>
+* 书籍（可以去下载电子版）：
+    - 
+    - A possible implementation is (P.J. Plauger, The Standard C Library, 1992): --备注：这个书似乎有些旧了，如果要用到其中的函数，可以先了解这本书的，使用参考新的，如下面的GNU C Standard Library<br>
 
 ## 2.关于变量：
 - 每一个变量都有一个存储变量值的地址，要搞清楚两者的关系，并知道如何获取 值和地址（也是一个值，是存储地址值）--不知会不会理解，不理解跟爸爸说。
