@@ -1,3 +1,7 @@
+<head>
+<link rel="stylesheet" type="text/css" href="github.css">
+</head>
+
 In case this may be helpful for someone who just needs to show colors rather than output, as a hackish workaround (and FYI), since Github supports Unicode numeric character references (and HTML entities), you could try colored Unicode symbols, though it depends on the font rendering them in color (as it happens to be appearing for me on Windows 10 and Mac 10.12.5, at least, though on the Mac at least, the up/down-pointing small red triangles don't show in red):
 
 RED APPLE (&#x1F34E;): 🍎  
@@ -19,3 +23,5 @@ UP-POINTING RED TRIANGLE (&#x1F53A;): 🔺
 DOWN-POINTING RED TRIANGLE (&#x1F53B;): 🔻  
 UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼  
 DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽  
+
+In his beard lived three <span style="color:red">cardinals</span>.
