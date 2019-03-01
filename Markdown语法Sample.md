@@ -1,5 +1,13 @@
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
+<style type="text/css">
+  table {background-color: #ccc; border: 1px solid black; padding: 5px; width: 90%;}
+  th {background-color: #333; border:}
+  tr {background-color: #999;}
+  td {background-color: #ccc; border: 1px solid black;}
+  .highlight {background-color: #fff; color: orange;}
+</style>
+
 </head>
 
 In case this may be helpful for someone who just needs to show colors rather than output, as a hackish workaround (and FYI), since Github supports Unicode numeric character references (and HTML entities), you could try colored Unicode symbols, though it depends on the font rendering them in color (as it happens to be appearing for me on Windows 10 and Mac 10.12.5, at least, though on the Mac at least, the up/down-pointing small red triangles don't show in red):
@@ -25,3 +33,29 @@ UP-POINTING SMALL RED TRIANGLE (&#x1F53C;): 🔼
 DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽  
 
 In his beard lived three <span style="color:red">cardinals</span>.
+
+<h3 style="color:Tomato;">Hello World</h3>
+<p style="color:DodgerBlue;">Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat.</p>
+
+<p style="color:MediumSeaGreen;">Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat.</p>
+
+
+<table cellspacing="5">
+<caption>Comparing weather and time zones</caption>
+<tr>
+<th>Location</th>
+<th>Tucson, Arizona</th>
+<th>Las Vegas, Nevada</th>
+</tr>
+<tr>
+<th>Weather</th>
+<td>Warm to Hot</td>
+<td>Warm to Hot</td>
+</tr>
+<tr>
+<th>Time Zone</th>
+<td>No Daylight Savings</td>
+<td  class="highlight">Mountain Standard Time</td>
+</tr>
+</table>
+
