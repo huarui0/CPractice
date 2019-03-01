@@ -125,8 +125,12 @@
         </tr>
     </table>
 
+<font size="3" color="red">This is some text!</font>
+<font size="2" color="blue">This is some text!</font>
+<font face="verdana" color="green">This is some text!</font>
 
-
+<p style="color:red">This is a paragraph.</p>
+<p style="color:blue">This is another paragraph.</p>
 
 ## 4.关于指针（pointer）变量：<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
