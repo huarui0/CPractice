@@ -24,7 +24,8 @@
        - 再比如： strlen() 应该就是计算字符的数量（长度）<br>
        - 又如：当我们想进行数学运算，如开根号，如果你了解了 math.h 这个头文件中包含得库函数，就能很容易得 解决这个问题：
           + 1.搜索到math.h得说明
-          + 2.找到sqr这个
+          + 2.找到sqrt这个function：double sqrt(double x);
+              可以了解到，传入一个值，就可以计算这个值的开根号：如 double a; a = 9.36; double b; b = sqrt(a); printf...,就能得到结果，注意：这个函数是通过返回值得方式得到结果的。 
 * 如何找到源文件的 定义（不是声明！！！）
      - 可以在google search中输入：strcmp source code，或者输入：c language strcmp source code。（当然中文也可以：c语言，strcmp 源代码）<br>
      -- [Browse the source code of glibc/string/strcmp.c(strcmp的源代码文件)](https://code.woboq.org/userspace/glibc/string/strcmp.c.html)<br>
