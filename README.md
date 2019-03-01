@@ -9,8 +9,8 @@
 备注：起的文件名扩展名必须是md，就可以用到md的语法组织文档：）   
     官网参考：<br>
 
-1. [MarkDown - 语法说明](http://www.markdown.cn/)
-2. [Markdown Guide](https://www.markdownguide.org/)<br>
+            1. [MarkDown - 语法说明](http://www.markdown.cn/)
+            2. [Markdown Guide](https://www.markdownguide.org/)<br>
     其他参考：<br>
     
           1. [Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html)
