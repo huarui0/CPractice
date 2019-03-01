@@ -42,7 +42,14 @@
       - 格式1：google search：strcmp source code site:en.wikibooks.org <br>
       - 格式2：google search：strcmp sample site:en.wikibooks.org <br>
     - www.techonthenet.com <br>
-* 书籍（可以去下载电子版）：
+* 关于 C Standard Library的说明<br>
+   - Google Search:C Standard Library
+   - 网站：
+      + [C Standard Library Reference Tutorial](https://www.tutorialspoint.com/c_standard_library/)<br>
+         + 先找到头文件，如：stdio.h
+         + 接着，找到需要的function的声明，如 int sprintf(char *str, const char *format, ...)
+         + 打开链接，就可以看到 详细信息和例子。
+* 书籍（可以去下载电子版）：（以下的书籍，由于年代久远了，可以不用看了，以上面关于C Standard Library的说明为准。）
     - 
     - A possible implementation is (P.J. Plauger, The Standard C Library, 1992): --备注：这个书似乎有些旧了，如果要用到其中的函数，可以先了解这本书的，使用参考新的，如下面的GNU C Standard Library<br>
 
