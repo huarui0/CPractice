@@ -145,6 +145,27 @@ The unary & operator gives you the address where a variable is stored.
 
 ## 6.关于字符转义：
 比如：\n 加了反斜杠 \ 后面的 n 就不代表 n 了，而是与\一起组合成\n，表示 换行符了
+
+- 参考 C Prime Plus p.44:Table 3.2 Escape Sequences<br>
+> Table 3.2 Escape Sequences<br>
+
+> | Sequence | Meaning |
+> | -------- | :------- |
+> | \a | Alert (ANSI C). |
+> | \b | Backspace. |
+> | \f | Form feed. |
+> | \n | Newline. |
+> | \r | Carriage return. |
+> | \t | Horizontal tab. |
+> | \v | Vertical tab. |
+> | \\ | Backslash ( \ ). |
+> | \' | Single quote ( ' ). |
+> | \" | Double quote ( " ). |
+> | \? | Question mark ( ? ). |
+> | \0oo | Octal value. ( o represents an octal digit.) |
+> | \xhh | Hexadecimal value. ( h represents a hexadecimal digit.) |
+
+
 ## 7.关于function（函数）<br>
 - 参考 C Prime Plus p.44:While You’re at It—Multiple Functions<br><br>
 The butler() function appears three times in this program. The first appearance is in the proto-
