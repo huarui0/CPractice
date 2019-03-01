@@ -22,9 +22,10 @@
        extern char *strcpy (char *__restrict __dest, const char *__restrict __src)
        应该就是将一个字符变量 copy 到 另一个字符变量。（猜测的） 
        - 再比如： strlen() 应该就是计算字符的数量（长度）<br>
-       - 又如：当我们想进行数学运算，如开根号，如果你了解了 math.h 这个头文件中包含得库函数，就能很容易得 解决这个问题：
-          + 1.搜索到math.h得说明
+       - 又如：当我们想进行数学运算，如开根号，如果你了解了 math.h 这个头文件中包含的库函数，就能很容易地解决这个问题：
+          + 1.搜索到math.h的说明
           + 2.找到sqrt这个function：double sqrt(double x);
+              
               可以了解到，传入一个值，就可以计算这个值的开根号：如 double a; a = 9.36; double b; b = sqrt(a); printf...,就能得到结果，注意：这个函数是通过返回值得方式得到结果的。 
 * 如何找到源文件的 定义（不是声明！！！）
      - 可以在google search中输入：strcmp source code，或者输入：c language strcmp source code。（当然中文也可以：c语言，strcmp 源代码）<br>
@@ -75,28 +76,25 @@
 ## 3.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
 > Table 4.3 Conversion Specifiers and the Resulting Printed Output
-> Conversion Output Specification
-> %a Floating-point number, hexadecimal digits and p-notation (C99/C11).
-> %A Floating-point number, hexadecimal digits and P-notation (C99/C11).
-> 113 Exploring and Exploiting printf() and scanf()
-> Conversion Output Specification
-> %c Single character.
-> %d Signed decimal integer.
-> %e Floating-point number, e-notation.
-> %E Floating-point number, e-notation.
-> %f Floating-point number, decimal notation.
-> %g Use %f or %e , depending on the value. The %e style is used if the exponent is
+> | Conversion | Output Specification | 
+> | %a | Floating-point number, hexadecimal digits and p-notation (C99/C11). | 
+> | %A | Floating-point number, hexadecimal digits and P-notation (C99/C11). | 
+> | %c | Single character. | 
+> | %d | Signed decimal integer. | 
+> | %e | Floating-point number, e-notation. | 
+> | %E | Floating-point number, e-notation.
+> | %f | Floating-point number, decimal notation.
+> | %g | Use %f or %e , depending on the value. The %e style is used if the exponent is less than −4 or greater than or equal to the precision.
+> | %G | Use %f or %E , depending on the value. The %E style is used if the exponent is
 less than −4 or greater than or equal to the precision.
-> %G Use %f or %E , depending on the value. The %E style is used if the exponent is
-less than −4 or greater than or equal to the precision.
-> %i Signed decimal integer (same as %d ).
-> %o Unsigned octal integer.
-> %p A pointer.
-> %s Character string.
-> %u Unsigned decimal integer.
-> %x Unsigned hexadecimal integer, using hex digits 0f .
-> %X Unsigned hexadecimal integer, using hex digits 0F .
-> %% Prints a percent sign.
+> | %i | Signed decimal integer (same as %d ).
+> | %o | Unsigned octal integer.
+> | %p | A pointer.
+> | %s | Character string.
+> | %u | Unsigned decimal integer.
+> | %x | Unsigned hexadecimal integer, using hex digits 0f .
+> | %X | Unsigned hexadecimal integer, using hex digits 0F .
+> | %% | Prints a percent sign.
 
 ## 4.关于指针（pointer）变量：<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
