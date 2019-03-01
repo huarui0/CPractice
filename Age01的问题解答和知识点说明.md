@@ -75,9 +75,10 @@
 
 ## 3.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
-> Table 4.3 Conversion Specifiers and the Resulting Printed Output
-> | Conversion | Output Specification | 
-> | %a | Floating-point number, hexadecimal digits and p-notation (C99/C11). | 
+> Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
+ | Conversion | Output Specification | 
+ | --------   | -----:   |
+ | %a | Floating-point number, hexadecimal digits and p-notation (C99/C11). |
 > | %A | Floating-point number, hexadecimal digits and P-notation (C99/C11). | 
 > | %c | Single character. | 
 > | %d | Signed decimal integer. | 
@@ -95,6 +96,37 @@ less than −4 or greater than or equal to the precision.
 > | %x | Unsigned hexadecimal integer, using hex digits 0f .
 > | %X | Unsigned hexadecimal integer, using hex digits 0F .
 > | %% | Prints a percent sign.
+
+*备注：这个是用html标签做表格的例子。<br>
+<table>
+        <tr>
+            <th>设备</th>
+            <th>设备文件名</th>
+            <th>文件描述符</th>
+            <th>类型</th>
+        </tr>
+        <tr>
+            <th>键盘</th>
+            <th>/dev/stdin</th>
+            <th>0</th>
+            <th>标准输入</th>
+        </tr>
+        <tr>
+            <th>显示器</th>
+            <th>/dev/stdout</th>
+            <th>1</th>
+            <th>标准输出</th>
+        </tr>
+        <tr>
+            <th>显示器</th>
+            <th>/dev/stderr</th>
+            <th>2</th>
+            <th>标准错误输出</th>
+        </tr>
+    </table>
+
+
+
 
 ## 4.关于指针（pointer）变量：<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
