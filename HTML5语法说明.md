@@ -8,7 +8,7 @@
 <p style="color:DodgerBlue;">&lt;!DOCTYPE html>：在html5文档的开头，用这个句子来表示这是一个html的文档</p>
 
 <p style="color:MediumSeaGreen;">HTML如何要显示语法带有的字符，如“&lt;”，就需要用到转义字符来表示，下面是对照表.</p>
-<a href="http://tool.oschina.net/commons?type=2">HTML转义字符对照表 - 开源中国在线工具</a>   &lt;-- 这是一个链接的语句，同时又了解了转义字符是什么？ 这个句子包含了 &lt; 用转义字符如何表示。
+<a href="http://tool.oschina.net/commons?type=2">HTML转义字符对照表 - 开源中国在线工具</a>   &lt;-- 这是一个链接的语句，同时又了解了转义字符是什么？ 注：本句包含了 &lt; 用转义字符的表示方法。
 
 </body>
 </html>
