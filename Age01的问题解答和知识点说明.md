@@ -27,6 +27,31 @@
           + 2.找到sqrt这个function：double sqrt(double x);
               
               可以了解到，传入一个值，就可以计算这个值的开根号：如 double a; a = 9.36; double b; b = sqrt(a); printf...,就能得到结果，注意：这个函数是通过返回值得方式得到结果的。 
+          + 3.sqrt的例子   
+          ```
+          /* Example using sqrt by TechOnTheNet.com */
+
+          #include <stdio.h>
+          #include <math.h>
+
+          int main(int argc, const char * argv[])
+          {
+              /* Define temporary variables */
+              double value;
+              double result;
+
+              /* Assign the value we will find the sqrt of */
+              value = 25;
+
+              /* Calculate the square root of value */
+              result = sqrt(value);
+
+              /* Display the result of the calculation */
+              printf("The Square Root of %f is %f\n", value, result);
+
+              return 0;
+          }
+          ```
 * 如何找到源文件的 定义（不是声明！！！）
      - 可以在google search中输入：strcmp source code，或者输入：c language strcmp source code。（当然中文也可以：c语言，strcmp 源代码）<br>
      -- [Browse the source code of glibc/string/strcmp.c(strcmp的源代码文件)](https://code.woboq.org/userspace/glibc/string/strcmp.c.html)<br>
