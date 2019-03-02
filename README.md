@@ -36,3 +36,8 @@
        ```
       * 参考：
         - [Markdown code block syntax highlightning is broken for C and C++ #34525](https://github.com/Microsoft/vscode/issues/34525)
+## 文件转换工具 - PanDoc
+  * 说明：这个工具可以将文本文件 转换成 PDF 等等，功能似乎很强大。说不定哪天会用得到，收藏先。<br>
+  * 参考：[Pandoc   a universal document converter](http://pandoc.org/MANUAL.html#divs-and-spans)
+
+
