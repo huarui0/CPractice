@@ -29,3 +29,10 @@
          + 默认标题栏居中对齐，内容居左对齐。
          + -:表示内容和标题栏居右对齐，:-表示内容和标题栏居左对齐，:-:表示内容和标题栏居中对齐。
          + 内容和|之间的多余空格会被忽略，每行第一个|和最后一个|可以省略，-的数量至少有一个。
+   - 代码的语法说明
+      * C 语言代码的语法
+       ```c
+          // 这里加入代码语句。
+       ```
+      * 参考：
+        - [Markdown code block syntax highlightning is broken for C and C++ #34525](https://github.com/Microsoft/vscode/issues/34525)
