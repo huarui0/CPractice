@@ -7,8 +7,8 @@
 
 <h4 style="color:Tomato;">以下为参考教程：</h4>
 
-<a href="http://www.w3school.com.cn/index.html">1. W3School的HTML教程</a>
-<a href="https://www.w3schools.com/html/default.asp">2. www.w3schools.com 的 HTML5 Tutorial</a>
+<a href="http://www.w3school.com.cn/index.html">1. W3School的HTML教程</a> <br>
+<a href="https://www.w3schools.com/html/default.asp">2. w3schools的HTML5 Tutorial</a>
 
 <h4 style="color:Tomato;">HTML5语法说明</h4>
 <p style="color:DodgerBlue;">&lt;!DOCTYPE html>：在html5文档的开头，用这个句子来表示这是一个html的文档</p>
