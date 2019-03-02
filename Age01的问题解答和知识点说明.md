@@ -28,7 +28,7 @@
               
               可以了解到，传入一个值，就可以计算这个值的开根号：如 double a; a = 9.36; double b; b = sqrt(a); printf...,就能得到结果，注意：这个函数是通过返回值得方式得到结果的。 
           + 3.sqrt的例子   
-          ```
+          ```c
           /* Example using sqrt by TechOnTheNet.com */
 
           #include <stdio.h>
