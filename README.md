@@ -46,7 +46,7 @@
           - 1.MarkDown实现
           - 2.html标签实现
              - a. 定义一个锚(id)：<span id="jump">跳转到的地方（id设置为jump）</span>
-             - b. 使用markdown语法：[点击跳转](#beginpoint)
+             - b. 使用markdown语法：[点击跳转到:用Html的标签设置的锚点](#beginpoint)
              - [使用Markdown语法增加的跳转到“文档开头”的链接](#CPractice) 注：因为标题就是锚点id，这里直接用标题名称了。
 ## 文件转换工具 - PanDoc
   * 说明：这个工具可以将文本文件 转换成 PDF 等等，功能似乎很强大。说不定哪天会用得到，收藏先。<br>
