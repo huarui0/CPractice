@@ -39,15 +39,18 @@
       * 参考：
         - [Markdown code block syntax highlightning is broken for C and C++ #34525](https://github.com/Microsoft/vscode/issues/34525)
    - 链接
+       + 参考：
+          - [如何实现Github markdown 目录/页内跳转？](https://www.zhihu.com/question/58630229)<br>
+          - [该文件用来测试和展示书写README的各种markdown语法。](https://github.com/guodongxiaren/README#%E9%93%BE%E6%8E%A5)<br>
        + 链接外部URL 
           - 
        + 链接内部的URL
        + 文档内的链接和跳转（两种方式实现页内跳转）
           - 1.MarkDown实现
+             - a. [使用Markdown语法增加的跳转到“文档开头”的链接](#CPractice) 注：因为标题就是锚点id，这里直接用标题名称了。
           - 2.html标签实现
              - a. 定义一个锚(id)：<span id="jump">跳转到的地方（id设置为jump）</span>
-             - b. 使用markdown语法：[点击跳转到:用Html的标签设置的锚点](#beginpoint)
-             - [使用Markdown语法增加的跳转到“文档开头”的链接](#CPractice) 注：因为标题就是锚点id，这里直接用标题名称了。
+             - b. 使用markdown语法：[点击跳转到:用Html的标签设置的锚点](#beginpoint)  
 ## 文件转换工具 - PanDoc
   * 说明：这个工具可以将文本文件 转换成 PDF 等等，功能似乎很强大。说不定哪天会用得到，收藏先。<br>
   * 参考：[Pandoc   a universal document converter](http://pandoc.org/MANUAL.html#divs-and-spans)
