@@ -1,5 +1,6 @@
 # CPractice
-<span id="beginpoint">这是用Html的标签设置的锚点</span>
+<span id="beginpoint">这是用Html的标签设置的锚点</span>  
+[点击跳转到id为jump的锚点](#jump)  
 ## git的文件上传和下载说明：
 | 类型 | 语句 | 说明 |
 | ------ | ------ | ------ |
@@ -44,7 +45,7 @@
        + 文档内的链接和跳转（两种方式实现页内跳转）
           - 1.MarkDown实现
           - 2.html标签实现
-             - a. 定义一个锚(id)：<span id="jump">跳转到的地方</span>
+             - a. 定义一个锚(id)：<span id="jump">跳转到的地方（id设置为jump）</span>
              - b. 使用markdown语法：[点击跳转](#beginpoint)
              - [使用Markdown语法增加的跳转到“文档开头”的链接](#CPractice) 注：因为标题就是锚点id，这里直接用标题名称了。
 ## 文件转换工具 - PanDoc
