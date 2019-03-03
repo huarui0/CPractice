@@ -15,6 +15,7 @@
     ⋅⋅3. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[GitHub Flavored Markdown Spec](https://github.github.com/gfm/)  
     ⋅⋅4. ![#f03c15](https://placehold.it/15/f03c15/000000?text=+)[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)  
     ⋅⋅5. [Markdown Example - Markdown例子](https://en.wikipedia.org/wiki/Markdown#Example)<br>
+    ..6.[一个很好的Git做笔记的例子](https://github.com/imhuay)<br>
 - 其他参考：  
     ⋅⋅1. [Markdown 语法介绍](https://coding.net/help/doc/project/markdown.html)  
     ⋅⋅2. [Markdown基本语法](https://www.jianshu.com/p/191d1e21f7ed)  
