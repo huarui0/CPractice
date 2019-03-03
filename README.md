@@ -36,6 +36,15 @@
        ```
       * 参考：
         - [Markdown code block syntax highlightning is broken for C and C++ #34525](https://github.com/Microsoft/vscode/issues/34525)
+   - 链接
+       + 链接外部URL 
+          - 
+       + 链接内部的URL
+       + 文档内的链接和跳转（两种方式实现页内跳转）
+          - 1.MarkDown实现
+          - 2.html标签实现
+             - a. 定义一个锚(id)：<span id="jump">跳转到的地方</span>
+             - b. 使用markdown语法：[点击跳转](#jump)
 ## 文件转换工具 - PanDoc
   * 说明：这个工具可以将文本文件 转换成 PDF 等等，功能似乎很强大。说不定哪天会用得到，收藏先。<br>
   * 参考：[Pandoc   a universal document converter](http://pandoc.org/MANUAL.html#divs-and-spans)
