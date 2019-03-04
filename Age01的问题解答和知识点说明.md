@@ -262,10 +262,11 @@ is the source code for the function itself. Let’s look at each of these three 
       - 参考  
          + [Borland Turbo C](https://zh.wikipedia.org/wiki/Borland_Turbo_C)<br>
          + [Turbo C++ -- 稳定版本	2006 （2006年9月5日 ）,说明十几年没更新了！](https://zh.wikipedia.org/wiki/Turbo_C%2B%2B)<br>
+         + [深入认识 Turbo C 编译器]
       - 说明  
          + Turbo C是一套C语言的集成开发环境与编译器软件，由Borland公司开发，于1987年开始发售。1990年五月，它被Turbo C++所取代。
              - 备注：
                     + Borland公司好像已倒闭，Turbo C 和 Turbo C ++ 都已退出历史舞台。
                     + 说明目前Turbo C 和 Turbo C ++已淘汰，与新的标准不兼容，尽量不要用，如果老师还是用Turbo C教，说明他不懂，或者没有新教材，不用跟着老师学。
-                    + 学习些编译的原理，也建议不要用Turbo C，用新的GNU GCC和另外一个（名字，去查下）。
+                    + 学习些编译的原理，也建议不要用Turbo C，用新的GNU GCC和另外一个（名字，去查下）。(考试也是考新的，没有考旧的）
 
