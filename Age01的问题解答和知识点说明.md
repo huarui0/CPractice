@@ -258,4 +258,14 @@ is the source code for the function itself. Let’s look at each of these three 
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
 
 ## 9.集成开发环境和编译环境
+   * 关于Turbo C  
+      - 参考  
+         + [Borland Turbo C](https://zh.wikipedia.org/wiki/Borland_Turbo_C)<br>
+         + [Turbo C++ -- 稳定版本	2006 （2006年9月5日 ）,说明十几年没更新了！](https://zh.wikipedia.org/wiki/Turbo_C%2B%2B)<br>
+      - 说明  
+         + Turbo C是一套C语言的集成开发环境与编译器软件，由Borland公司开发，于1987年开始发售。1990年五月，它被Turbo C++所取代。
+             - 备注：
+                    + Borland公司好像已倒闭，Turbo C 和 Turbo C ++ 都已退出历史舞台。
+                    + 说明目前Turbo C 和 Turbo C ++已淘汰，与新的标准不兼容，尽量不要用，如果老师还是用Turbo C教，说明他不懂，或者没有新教材，不用跟着老师学。
+                    + 学习些编译的原理，也建议不要用Turbo C，用新的GNU GCC和另外一个（名字，去查下）。
 
