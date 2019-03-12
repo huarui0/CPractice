@@ -29,3 +29,10 @@
               return 0;
           }
 ```
+
+# 关于函数
+   * 关于function prototyping -- 参考 C Prime Plus P.44
+       - void butler(void); /* ANSI/ISO C function prototyping */
+# 关于数据及数据类型
+   * 关于数据类型的边界；如 double 和 float
+      - Warning—conversion from ‘double’ to ‘float
