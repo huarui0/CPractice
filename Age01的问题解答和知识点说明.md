@@ -11,6 +11,8 @@
 -----------------------------------------
 # 知识点
 ## 1.关于C语言标准（C Standard）：
+   * 参考
+      - [C18 (C standard revision) - 最新的 C标准](https://en.wikipedia.org/wiki/C18_(C_standard_revision))<br>
 ## 2.关于头文件：
 * 最初学的第一个头文件：#include <stdio.h> 这个头文件用到的函数有两个：printf 和 scanf。只是当时没有仔细解释。。。
 * 加入头文件的目的：#include <string.h>
