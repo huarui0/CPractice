@@ -10,7 +10,8 @@
        + [为什么国内的一些一流大学还在用Turbo C教C语言？](https://www.zhihu.com/question/29314005)<br>
 -----------------------------------------
 # 知识点
-## 1.关于头文件：
+## 1.关于C语言标准（C Standard）：
+## 2.关于头文件：
 * 最初学的第一个头文件：#include <stdio.h> 这个头文件用到的函数有两个：printf 和 scanf。只是当时没有仔细解释。。。
 * 加入头文件的目的：#include <string.h>
      * 因为要用到 string.h 中定义的库函数 strcmp,来比较输入的字符串 与 变量中保存的字符 是否一致，
@@ -93,16 +94,16 @@
     - 
     - A possible implementation is (P.J. Plauger, The Standard C Library, 1992): --备注：这个书似乎有些旧了，如果要用到其中的函数，可以先了解这本书的，使用参考新的，如下面的GNU C Standard Library<br>
 
-## 2.关于变量：
+## 3.关于变量：
 - 每一个变量都有一个存储变量值的地址，要搞清楚两者的关系，并知道如何获取 值和地址（也是一个值，是存储地址值）--不知会不会理解，不理解跟爸爸说。
 - 变量必须先声明（declare），才可以赋值（assign），否则会报错。如果在声明得同时赋值，叫做变量得初始化（参考：CPrimePlus。p.63:Initializing a Variable.）
 - 变量必须赋值，才能计算。
 - 不同类型的变量，不能相加。比如：字符型的数值，就不能跟 数值型的数值相加，例子：int num; num = 3; char chr_num; chr_num = '5'; int sum; sum = num + chr_num; 这是错的，因为 num 和 chr_num 不是__**同类型的变量**__！！！
 
-### 2.1 关于变量溢出
+### 3.1 关于变量溢出
 - 参考：C Prime Plus p.68：Integer Overflow（这个是整形数值溢出得例子，其他字符型，浮点型，也一样有溢出得情况，以后写程序的时候，要加入捕捉的机制）
 
-## 3.关于变量的格式化：<br>
+## 4.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
 > Table 4.3 Conversion Specifiers and the Resulting Printed Output (要尽量都记住，因为要考试！【爸爸都没记多少，因为不用考试：（】)<br>
 
@@ -194,10 +195,10 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽<br>
 <p style="color:red">This is a paragraph.</p>
 <p style="color:blue">This is another paragraph.</p>
 
-## 4.关于指针（pointer）变量：<br>
+## 5.关于指针（pointer）变量：<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
 
-## 5.关于 & 操作符；
+## 6.关于 & 操作符；
 参考：C Prime Plus p.367：Finding Addresses: The & Operator
 - 注意，加 & 的变量与 原来变量的关系，同时 要先了解下 pointer （指针）
 - 红字：特别是变量的地址和变量的值（也就是地址存储的东西（值）），一定要搞得清清楚楚，明明白白。这样指针和 这个操作符 就 都不在话下了。<br> <br>
@@ -209,7 +210,7 @@ next, beginning with the unary & operator. (The next chapter continues the explo
 exploitation of pointers.)
 The unary & operator gives you the address where a variable is stored.
 
-## 6.关于字符转义：
+## 7.关于字符转义：
 比如：\n 加了反斜杠 \ 后面的 n 就不代表 n 了，而是与\一起组合成\n，表示 换行符了
 
 - 参考 C Prime Plus p.44:Table 3.2 Escape Sequences (要尽量都记住，因为要考试！【爸爸都没记多少，因为不用考试：（】)<br>
@@ -232,7 +233,7 @@ The unary & operator gives you the address where a variable is stored.
 > | \xhh | Hexadecimal value. ( h represents a hexadecimal digit.) |
 
 
-## 7.关于function（函数）<br>
+## 8.关于function（函数）<br>
 - 参考 C Prime Plus p.44:While You’re at It—Multiple Functions<br><br>
 The butler() function appears three times in this program. The first appearance is in the proto-
 type , which informs the compiler about the functions to be used. The second appearance is in
@@ -254,10 +255,10 @@ is the source code for the function itself. Let’s look at each of these three 
              3.& 操作符（operator） 可以用来来获得地址得信息，因此，可以使用来获得函数结果的方法。   
 - 比如：爸爸写的这个markdown文档，就是现学现用的，不用学。遇到问题Google下就可以了。（目前没有解决字体颜色得问题）
 - 学得快和学得扎实，可以兼顾下。如果不能，那就先慢些学。等基础扎实了再快。
-## 8.关于编码规范：
+## 9.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
 
-## 9.集成开发环境和编译环境
+## 10.集成开发环境和编译环境
    * 关于Turbo C  
       - 参考  
          + [Borland Turbo C](https://zh.wikipedia.org/wiki/Borland_Turbo_C)<br>
