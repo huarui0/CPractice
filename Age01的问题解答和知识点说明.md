@@ -201,7 +201,7 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽<br>
 ## 5.关于指针（pointer）变量：<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
    + 指针变量的说明
-      - Basically, a pointer is a variable (or, more generally, a data object)：一个指针也是一个变量，是指向内存中某块内存位置的变量（内存地址）。
+      - Basically, a pointer is a variable (or, more generally, a data object)：一个指针也是一个变量，是指向内存中某块内存位置（内存地址）的变量。
       - 指针变量的赋值：ptr = &pooh; // assigns pooh's address to ptr<br>
          * 说明：上述表达式表示：将pooh变量的地址赋值给指针变量ptr。
    + 指针变量的作用 - 为什么要用到指针变量？
