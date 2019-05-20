@@ -202,6 +202,8 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
    + 指针变量的说明
       - Basically, a pointer is a variable (or, more generally, a data object)：一个指针也是一个变量，是指向内存中某块内存位置的变量（内存地址）。
+   - 指针变量的作用 - 为什么要用到指针变量？
+      - 有时，我们要改变一个变量的值，只要知道这个变量的（内存）地址，就可以很方便的更改它了。 - 因此，用一个指针变量来保存这个变量的地址，需要用的时候，立马就可以用这个指针变量的值来定位要改变的变量，更改后，- 在Visual Basic中，也有一个机制类似，叫做引用变量，就是说；这个变量是指向一个内存地址的变量，更改变量的值，指向这个内存地址的变量就会跟着更改（不管这个指针（VB中的引用变量）叫什么名字。
 ## 6.关于 & 操作符；
 参考：C Prime Plus p.367：Finding Addresses: The & Operator
 - 注意，加 & 的变量与 原来变量的关系，同时 要先了解下 pointer （指针）
