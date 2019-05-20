@@ -200,7 +200,8 @@ DOWN-POINTING SMALL RED TRIANGLE (&#x1F53D;): 🔽<br>
 
 ## 5.关于指针（pointer）变量：<br>
 参考 C Prime Plus p.371：Pointers: A First Look，可以先看看。<br>
-
+   + 指针变量的说明
+      - Basically, a pointer is a variable (or, more generally, a data object)：一个指针也是一个变量，是指向内存中某块内存位置的变量（内存地址）。
 ## 6.关于 & 操作符；
 参考：C Prime Plus p.367：Finding Addresses: The & Operator
 - 注意，加 & 的变量与 原来变量的关系，同时 要先了解下 pointer （指针）
