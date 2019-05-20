@@ -105,7 +105,7 @@
 
 ### 3.1 关于变量溢出
 - 参考：C Prime Plus p.68：Integer Overflow（这个是整形数值溢出得例子，其他字符型，浮点型，也一样有溢出得情况，以后写程序的时候，要加入捕捉的机制）
-
+### 3.1 关于
 ## 4.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
 > Table 4.3 Conversion Specifiers and the Resulting Printed Output (要尽量都记住，因为要考试！【爸爸都没记多少，因为不用考试：（】)<br>
