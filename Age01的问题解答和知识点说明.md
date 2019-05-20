@@ -105,8 +105,16 @@
 
 ### 3.1 关于变量溢出
 - 参考：C Prime Plus p.68：Integer Overflow（这个是整形数值溢出得例子，其他字符型，浮点型，也一样有溢出得情况，以后写程序的时候，要加入捕捉的机制）
-### 3.1 关于浮点计算（Floating-point arithmetic）
-   * 
+### 3.1 关于浮点数（The Floating-Point Number）
+   * 参考：
+      + C Prime Plus p.60：Integer Versus Floating-Point Types<br>
+         - The Floating-Point Number
+      + [Floating-point arithmetic - 维基百科的英文说明](https://en.wikipedia.org/wiki/Floating-point_arithmetic)<br>
+      + [浮点数 - 维基百科](https://zh.wikipedia.org/wiki/浮点数)<br>
+      + [IEEE二进制浮点数算术标准（IEEE 754）](https://zh.wikipedia.org/wiki/IEEE_754)<br>
+      + [Floating Point Number - 可以参考下，不用仔细，其中有Python的应用说明和例子](https://www.sciencedirect.com/topics/engineering/floating-point-number)<br>
+      +
+      
 ## 4.关于变量的格式化：<br>
 - 参考：C Prime Plus p.112：Table 4.3 Conversion Specifiers and the Resulting Printed Output<br>
 > Table 4.3 Conversion Specifiers and the Resulting Printed Output (要尽量都记住，因为要考试！【爸爸都没记多少，因为不用考试：（】)<br>
