@@ -1,5 +1,12 @@
 # 参考资源：<br>
 * [C Programming Tutorial(4th Edition (K&R version)](http://markburgess.org/CTutorial/C-Tut-4.02.pdf)<br>
+   + 简介<br>
+      - This book is a tutorial. Its aim is to teach C to a beginner, but with enough of the details so as not be outgrown as the years go by. The author presumes that you have some previous aquaintance with programming � you need to know what a variable is and what a function is � but you do not need much experience.
+
+      - It is not essential to follow the order of the chapters rigorously, but if you are a beginner to C it is recommended.
+
+      - About the Authors
+         + Mark Burgess is a researcher and writer at Oslo University College in Norway.
 # 问题记录：<br>
 
 * 1.行数16 算式的差是固定值？为什么？<br>
