@@ -1,3 +1,5 @@
+# 参考资源：<br>
+* [C Programming Tutorial(4th Edition (K&R version)](http://markburgess.org/CTutorial/C-Tut-4.02.pdf)<br>
 # 问题记录：<br>
 
 * 1.行数16 算式的差是固定值？为什么？<br>
