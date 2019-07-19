@@ -23,6 +23,8 @@
    * 参考
       - [C18 (C standard revision) - 最新的 C标准](https://en.wikipedia.org/wiki/C18_(C_standard_revision))<br>
          >C18 and C17 are informal names for ISO/IEC 9899:2018,[1][2] the most recent standard for the C programming language, published in June 2018. It replaced C11 (standard ISO/IEC 9899:2011).[3] Support was scheduled for GCC 8 and LLVM Clang 6.0.[1]
+   * 其他参考
+      - [INTERNATIONAL STANDARD(Programming languages — C)](https://web.cs.dal.ca/~vlado/pl/C_Standard_2011-n1570.pdf)<br>
 ## 2.关于头文件：
 * 最初学的第一个头文件：#include <stdio.h> 这个头文件用到的函数有两个：printf 和 scanf。只是当时没有仔细解释。。。
 * 加入头文件的目的：#include <string.h>
