@@ -287,6 +287,7 @@ is the source code for the function itself. Let’s look at each of these three 
              3.& 操作符（operator） 可以用来来获得地址得信息，因此，可以使用来获得函数结果的方法。   
 - 比如：爸爸写的这个markdown文档，就是现学现用的，不用学。遇到问题Google下就可以了。（目前没有解决字体颜色得问题）
 - 学得快和学得扎实，可以兼顾下。如果不能，那就先慢些学。等基础扎实了再快。
+- 参考：[老标准的C语言这样定义函数方法吗？](https://www.zhihu.com/question/49403058) - 函数的格式也是要以 标准 为 前提，如：C11和之前的Ansi_rre 格式是不一样的<br>
 ## 9.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
 
