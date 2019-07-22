@@ -24,7 +24,7 @@
       - [C18 (C standard revision) - 最新的 C标准](https://en.wikipedia.org/wiki/C18_(C_standard_revision))<br>
          >C18 and C17 are informal names for ISO/IEC 9899:2018,[1][2] the most recent standard for the C programming language, published in June 2018. It replaced C11 (standard ISO/IEC 9899:2011).[3] Support was scheduled for GCC 8 and LLVM Clang 6.0.[1]
    * 其他参考
-      - [INTERNATIONAL STANDARD(Programming languages — C)  -- 这是C11标准的一个PDF文件](https://web.cs.dal.ca/~vlado/pl/C_Standard_2011-n1570.pdf)<br>
+      - [INTERNATIONAL STANDARD(Programming languages — C)](https://web.cs.dal.ca/~vlado/pl/C_Standard_2011-n1570.pdf) -- 这是C11标准的一个PDF文件<br>
          + [6.9 External definitions ..................... 155](https://web.cs.dal.ca/~vlado/pl/C_Standard_2011-n1570.pdf)<br>
             - [6.9.1 Function definitions .................. 156](https://web.cs.dal.ca/~vlado/pl/C_Standard_2011-n1570.pdf)<br>
       - [The Current C Programming Language Standard – ISO/IEC 9899:2018 (C18)](https://blog.ansi.org/2018/11/c-language-standard-iso-iec-9899-2018-c18/#gref) -- 这是ansi.org的一篇关于 C18 的介绍性文章<br>
