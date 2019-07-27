@@ -1,4 +1,4 @@
-# CPractice
+# CLangPractice
 <span id="beginpoint">这是用Html的标签设置的锚点</span>  
 [点击跳转到id为jump的锚点](#jump)  
 ## git的文件上传和下载说明：
