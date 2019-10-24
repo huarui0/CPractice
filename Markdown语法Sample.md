@@ -1,3 +1,9 @@
+#有用得链接(GitHub)
+[Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
+[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
+[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<br>
+
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
 <link rel="stylesheet" type="text/css" href="colors.css">
