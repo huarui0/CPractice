@@ -1,8 +1,8 @@
-#有用得链接(GitHub)
+#有用得链接(GitHub)<br>
 [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
-[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md)<br>
+[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - 很好的图标，值得用用<br>
 
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
