@@ -3,6 +3,7 @@
 [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
 [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - 很好的图标，值得用用<br>
+[Basic Syntax](https://www.markdownguide.org/basic-syntax/) - The Markdown elements outlined in John Gruber's design document.<br>
 
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
