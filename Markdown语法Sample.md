@@ -1,20 +1,17 @@
 #有用得链接(GitHub)<br>
-[Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
-[Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
-[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
-[emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - 很好的图标，值得用用<br>
-[Basic Syntax](https://www.markdownguide.org/basic-syntax/) - The Markdown elements outlined in John Gruber's design document.<br>
+   [Basic writing and formatting syntax](https://help.github.com/en/github/writing-on-github/basic-writing-and-formatting-syntax)<br>
+   [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
+   [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
+   [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - 很好的图标，值得用用<br>
+   [Basic Syntax](https://www.markdownguide.org/basic-syntax/) - The Markdown elements outlined in John Gruber's design document.<br>
 
 <head>
 <link rel="stylesheet" type="text/css" href="github.css">
 <link rel="stylesheet" type="text/css" href="colors.css">
 </head>
 
-
-
-
-*备注：这个是用html标签做表格的例子。<br>
-<table>
+* 备注：这个是用html标签做表格的例子。<br>
+    <table>
         <tr>
             <th>设备</th>
             <th>设备文件名</th>
@@ -40,17 +37,17 @@
             <th>标准错误输出</th>
         </tr>
     </table>
-# 颜色的使用
-   * 方法 1
-      - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-      - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-      - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
-   * approach 2
-      - ![](https://placehold.it/200x45/ff0000/000000?text=IMPORTANT!)
+# 颜色的使用<br>
+   * 方法 1<br>
+      + ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+      + ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+      + ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+   * approach 2<br>
+      + ![](https://placehold.it/200x45/ff0000/000000?text=IMPORTANT!)
 
-      - ![](https://placehold.it/400x90/ff6600/000?text=WARNING!)
+      + ![](https://placehold.it/400x90/ff6600/000?text=WARNING!)
 
-      - ![](https://placehold.it/350x90/009955/fff?text=SUCCESS!)
+      + ![](https://placehold.it/350x90/009955/fff?text=SUCCESS!)
 
 ```diff
 + this will be highlighted in green
