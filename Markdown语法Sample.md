@@ -40,16 +40,17 @@
             <th>标准错误输出</th>
         </tr>
     </table>
+# 颜色的使用
+   * 方法 1
+      - ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
+      - ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
+      - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+   * approach 2
+      - ![](https://placehold.it/200x45/ff0000/000000?text=IMPORTANT!)
 
-- ![#f03c15](https://placehold.it/15/f03c15/000000?text=+) `#f03c15`
-- ![#c5f015](https://placehold.it/15/c5f015/000000?text=+) `#c5f015`
-- ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
+      - ![](https://placehold.it/400x90/ff6600/000?text=WARNING!)
 
-![](https://placehold.it/400x90/ff0000/000000?text=IMPORTANT!)
-
-![](https://placehold.it/400x90/ff6600/000?text=WARNING!)
-
-![](https://placehold.it/350x90/009955/fff?text=SUCCESS!)
+      - ![](https://placehold.it/350x90/009955/fff?text=SUCCESS!)
 
 ```diff
 + this will be highlighted in green
