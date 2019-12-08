@@ -291,6 +291,7 @@ is the source code for the function itself. Let’s look at each of these three 
 ## 9.关于**操作符**运算顺序
    * 参考
       + [C 語言:運算子優先次序和運算次序](http://magicjackting.pixnet.net/blog/post/70902861) - **这篇文章作为引子，要深入学习，要找权威书籍**<br>
+      + [[C 語言] 程式設計教學：如何使用運算子 (Operators)](https://michaelchen.tech/c-programming/operator/)<br>
 ## 9.关于编码规范：
 * 感觉编码不够规范，要看一下关于编码规范的知识。可以Google。
 
