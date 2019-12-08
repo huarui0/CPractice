@@ -288,7 +288,7 @@ is the source code for the function itself. Let’s look at each of these three 
 - 比如：爸爸写的这个markdown文档，就是现学现用的，不用学。遇到问题Google下就可以了。（目前没有解决字体颜色得问题）
 - 学得快和学得扎实，可以兼顾下。如果不能，那就先慢些学。等基础扎实了再快。
 - 参考：[老标准的C语言这样定义函数方法吗？](https://www.zhihu.com/question/49403058) - 函数的格式也是要以 标准 为 前提，如：C11和之前的Ansi_rre 格式是不一样的<br>
-## 9.关于运算顺序
+## 9.关于**操作符**运算顺序
    * 参考
       + [C 語言:運算子優先次序和運算次序](http://magicjackting.pixnet.net/blog/post/70902861) - **这篇文章作为引子，要深入学习，要找权威书籍**<br>
 ## 9.关于编码规范：
