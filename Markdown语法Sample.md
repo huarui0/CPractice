@@ -3,6 +3,7 @@
    [Mastering Markdown](https://guides.github.com/features/mastering-markdown/)<br>
    [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)<br>
    [emoji-cheat-sheet](https://github.com/ikatyang/emoji-cheat-sheet/blob/master/README.md) - 很好的图标，值得用用<br>
+   [Note/GithubEmoji/emoji.md](https://github.com/jingyuexing/Note/blob/master/GithubEmoji/emoji.md) :heavy_check_mark:另一个很好的图标，值得参考<br>
    [Basic Syntax](https://www.markdownguide.org/basic-syntax/) - The Markdown elements outlined in John Gruber's design document.<br>
 
 <head>
